@@ -1,0 +1,14 @@
+[user]
+	name = . Carlin
+	email = email.me@carlinyuen.com
+[push]
+	default = upstream
+[alias]
+	lol = log --graph --decorate --pretty=oneline --abbrev-commit
+	lola = log --graph --decorate --pretty=oneline --abbrev-commit --all
+	lolas = log --graph --decorate --pretty=oneline --abbrev-commit --all --name-status
+[color]
+	branch = auto
+	diff = auto
+	interactive = auto
+	status = auto
